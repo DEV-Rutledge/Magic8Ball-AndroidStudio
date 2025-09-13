@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="description_text">Shake the Magic 8 Ball to Reveal the Answer to ALL of LIFES PROBLEMS… If you dare</string>
+    <string name="shake_button">Shake the 8 Ball</string>
+    <string name="response_1">Yes, definitely.</string>
+    <string name="response_2">Ask again later.</string>
+    <string name="response_3">Don’t count on it.</string>
+    <string name="response_4">It is certain.</string>
+    <string name="response_5">My reply is no.</string>
+    <string name="response_6">Reply hazy, try again.</string>
+    <string name="response_7">Most likely.</string>
+    <string name="response_8">Better not tell you now.</string>
+    <string name="shake_the_8_ball_to_see_your_fortune">Shake the 8 Ball to see your fortune!</string>
+</resources>
